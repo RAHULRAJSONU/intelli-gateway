@@ -1,0 +1,21 @@
+# ide related files
+.idea
+*.ipr
+*.iws
+*.iml
+
+# Local properties
+
+# Generated resources and compilation output:
+target/
+
+# Project files
+.settings/
+.target
+.buildpath
+
+# Backup files:
+*.tmp
+*.bak
+*.swp
+.project
